@@ -8,7 +8,7 @@ description: >
   一起学习交流进步！
 
 # Build settings
-
+markdown: kramdown
 theme: minima
 
 plugins:
